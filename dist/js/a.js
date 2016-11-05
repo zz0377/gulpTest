@@ -1,0 +1,1 @@
+function demo(o){console.log("11111"),alert("--------\r\n"+o+"\r\n--------")}demo("ha");

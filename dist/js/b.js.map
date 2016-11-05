@@ -1,0 +1,1 @@
+{"version":3,"sources":["b.js"],"names":["hello","msg","console","log","alert"],"mappings":"AAAA,QAASA,OAAOC,GACfC,QAAQC,IAAI,WACTC,MAAM,eAAiBH,EAAM,gBAGjCD,MAAM","file":"b.js","sourcesContent":["function hello (msg) {\r\n\tconsole.log(222222222);\r\n    alert('--------\\r\\n' + msg + '\\r\\n--------');\r\n}\r\n\r\nhello('zz')"]}
